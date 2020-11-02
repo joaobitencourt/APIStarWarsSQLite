@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="Qual_Planeta">Digite o nome de um Planeta</string>
+    <string name="Search"> Procurar o Planeta</string>
+    <string name="loading">Carregando…</string>
+    <string name="Planeta">Informações do Planeta Escolhido</string>
+
+    <string name="no_results">"Nenhum resultado encontrado"</string>
+
+    <string name="no_search_term">Informe um termo de busca</string>
+    <string name="search_Location">Procurar Local</string>
+
+    <string name="screenShot">ScreenShot </string>
+
+    <string name="no_network">verifique sua conexão.</string>
+    <string name="saibamais">Quer saber curiosidades de Star Wars?</string>
+    <string name="str_empty">" "</string>
+    <string name="Quallugar">"Escolha o lugar de Stars Wars que deseja saber a localização"</string>
+    <string name="Aqui">"Aqui eu estou!"</string>
+    <string name="OpenMoreCuriosities">"Se desejá ver mais lugares, Click aqui! "</string>
+
+    <string-array name="opcoeslocais">
+        <item>Opção1</item>
+        <item>Opção2</item>
+        <item>Opção3</item>
+        <item>Opção4</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="dark_side">Dark Side</string>
+    <string name="jedi_side">Jedi Side</string>
+    <string name="Storage">Storage</string>
+    <string name="TituloStorage">Planetas Pesquisados</string>
+    <string name="storageTitle">Historico</string>
+    <string name="delete_all">Delete all storage</string>
+
+</resources>

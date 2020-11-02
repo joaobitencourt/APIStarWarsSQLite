@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/OptionColor"
+        android:title="@string/dark_side"
+        />
+    <item
+        android:id="@+id/OptionChangeBackground"
+        android:title="@string/jedi_side"
+        />
+    <item
+        android:id="@+id/Historico"
+        android:title="@string/Storage"
+        />
+</menu>
